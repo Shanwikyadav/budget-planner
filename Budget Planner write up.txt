@@ -1,0 +1,14 @@
+Budget Planner
+
+* Created two files one is HTML as Index.html file and another is Script as script.js
+
+* In HTML added the Title as Budget Planner and included the JavaScript file in HTML file
+
+* In Javascript Creaed two Empty arrays and Pushing the values into the Array Which is Provided By the User
+ 
+* And Also Created two Buttons with Add Product And Budget details 
+
+* Once if we Click on the Add products it will display the Window Asking User for product inputs with number of products to
+  enter along with product name and product price
+
+* After clicking the budget details It will Display the total budget of the products which user Entered 
